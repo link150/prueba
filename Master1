@@ -19,7 +19,7 @@ numeros1 = [3,5,4,3,6,8]
 
 numeros2 = [2,3,5,8,2,4]
 
-multiplo = 17
+multiplo = 20
 
 
 print(python_function(numeros1,numeros2,multiplo))
