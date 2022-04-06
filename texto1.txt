@@ -1,11 +1,7 @@
 linea1
 linea2
 linea3
-<<<<<<< HEAD
 linea4
 linea5
 linea6
 linea8
-=======
-linea4
->>>>>>> parent of 82e9ead (cambios hasta linea 6)
